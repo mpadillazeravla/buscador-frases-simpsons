@@ -3,7 +3,7 @@
 Pagina que muestra aleatoriamente personajes y frases de los Simpsons sacandolos de su API 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/> </a>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/> </a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://www.styled-components.com/atom.png" alt="Styled components" width="100" height="100"/> </a></p>
 
 
